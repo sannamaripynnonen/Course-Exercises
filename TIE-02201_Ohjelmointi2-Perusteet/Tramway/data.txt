@@ -1,0 +1,24 @@
+West;Pyynikintori
+West;Tuulensuu
+West;Keskustori
+West;Koskipuisto
+West;Rautatieasema
+West;Tulli
+West;Sammonaukio
+East;Sammonaukio
+East;Kaleva
+East;Uintikeskus
+East;Kalevanrinne
+East;Hakametsa
+East;Turtola
+East;Hallila
+East;Hervanta
+East;Hervannan kampus
+South;Hervannan kampus
+South;Etela-Hervanta
+South;Hervantajarvi
+Hospital;Sammonaukio
+Hospital;Kalevan kirkko
+Hospital;Hippos
+Hospital;TAYS
+Hospital;Kaupin kampus
